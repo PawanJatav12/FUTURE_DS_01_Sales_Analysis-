@@ -95,7 +95,3 @@ Since no dataset was provided, I created a realistic sales dataset using Python 
 
 ---
 
-## Connect
-
-- LinkedIn: [Your LinkedIn Profile Link]
-- GitHub: [Your GitHub Profile Link]
